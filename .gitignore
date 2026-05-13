@@ -5,8 +5,8 @@ venv/
 env/
 
 # Django
-db.sqlite3
-media/
+# db.sqlite3
+# media/
 
 # React
 frontend/node_modules/
